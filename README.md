@@ -63,10 +63,10 @@ The system recommends:
 - GREEN
 
 # Tools & Technologies
-Python (Pandas, NumPy)
-Data Visualization: Plotly
-Machine Learning: Scikit-learn
-Market Basket Analysis: mlxtend (Apriori)
+  Python (Pandas, NumPy).
+  Data Visualization: Plotly
+  Machine Learning: Scikit-learn
+  Market Basket Analysis: mlxtend (Apriori)
 
 
 #  Customer Segmentation (RFM Analysis)
