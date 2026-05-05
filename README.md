@@ -62,7 +62,7 @@ The system recommends:
 - RED
 - GREEN
 
-Tools & Technologies
+# Tools & Technologies
 Python (Pandas, NumPy)
 Data Visualization: Plotly
 Machine Learning: Scikit-learn
@@ -101,7 +101,7 @@ We used the RFM features:
 - **Frequency** → Number of transactions  
 - **Monetary** → Total spending  
 
-## ⚙️ Methodology
+##  Methodology
 1. Data preprocessing and feature engineering (RFM)
 2. Feature scaling using StandardScaler
 3. Determining optimal number of clusters using Elbow Method
