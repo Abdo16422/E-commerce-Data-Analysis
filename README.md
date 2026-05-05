@@ -1,6 +1,6 @@
-End-to-End E-commerce Analytics & Recommendation System
+#  E-Commerce Data Analysis Project
 
- Project Overview
+##  Overview
 This project presents a comprehensive end-to-end data analytics solution for an e-commerce business. 
 It focuses on extracting actionable insights from transactional data, understanding customer behavior, 
 and building a recommendation system to enhance sales and customer experience.
