@@ -1,4 +1,4 @@
-#  E-Commerce Data Analysis Project
+# End-to-End E-commerce Analytics and Recommendation System
 
 ##  Overview
 This project presents a comprehensive end-to-end data analytics solution for an e-commerce business. 
